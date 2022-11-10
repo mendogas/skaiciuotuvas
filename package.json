@@ -1,0 +1,20 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "calcas",
+    "main": "index.js",
+    "scripts": {
+        "dev": "dead-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "html",
+        "css",
+        "js"
+    ],
+    "author": "Mindaugas",
+    "license": "MIT",
+    "devDependencies": {
+        "dead-server": "^1.0.8"
+    }
+}
